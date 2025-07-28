@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^6.0.0",
+    "@emurgo/cardano-serialization-lib-nodejs": "^15.0.0",
+    "lucid-cardano": "^0.10.11"
+  }
+}

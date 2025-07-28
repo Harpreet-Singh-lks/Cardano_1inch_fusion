@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@1inch/limit-order-sdk": "^4.9.5-rc.0",
+    "ethers": "^6.15.0"
+  }
+}
